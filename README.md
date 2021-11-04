@@ -1,19 +1,7 @@
-# vk-keyboard
+# vk-keyboard-generator
 
-## Project setup
-```
-npm install
-```
+* **Version**: 0.1
+* **Developer**: Andrey Bagashov
+  * [telegram](https://t.me/andrew_baga)
+  * [vk](https://vk.com/id485937087)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
